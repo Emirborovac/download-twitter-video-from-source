@@ -33,7 +33,7 @@ Twitter uses separate streams for video and audio. By using browser developer to
 2. Install `ffmpeg` on your system.
 3. Run the script in your terminal:
    ```bash
-   python download_video.py
+   python downloader.py
 
 
 
